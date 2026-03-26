@@ -1,0 +1,7 @@
+{
+  "prompt": "Wide-angle editorial illustration, cinematic lighting. A long wooden dining table stretches across the frame. On the far left, ninety-nine people are tightly crowded together, sharing a single small plate of food. Their faces look tired, strained, and resigned. The space is dim, cold, and shadowed. On the far right, one wealthy individual sits alone, surrounded by an overwhelming abundance of food that fills half the table. The contrast is extreme — scarcity versus excess. The right side is warm and brightly lit, the left side is dark and desaturated. Mood: heavy, unequal, suffocating imbalance. Color palette: cold blue-grey tones on the left, warm golden light on the right. No text, no labels, no numbers, no charts, no symbols.",
+  "model": "DALL-E 3 via ChatGPT",
+  "dataset_name": "World Inequality Database - Top 1% wealth share",
+  "dataset_url": "https://wid.world/data/",
+  "insight": "In South Africa, the top 1% owns more than half of the country's total wealth."
+}
